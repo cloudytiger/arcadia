@@ -1,2 +1,2 @@
 # OpenCV Robot Vision
-This is a Pyhthon program for robot vision using OpenCV.
+This is a Python program for robot vision using OpenCV.
